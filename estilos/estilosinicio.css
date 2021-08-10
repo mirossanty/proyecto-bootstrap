@@ -1,0 +1,77 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    color: beige;
+}
+
+.espacio-a-b{
+    padding:50px;
+   
+}
+.espacio2{
+    padding:30px;
+}
+
+
+.logotipo{
+    width: 50px;
+    padding: 0px 0;
+}
+
+
+
+.imagen1 {
+    width: 500px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 25px;
+}
+.imagen2 {
+    width: 500px;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+.imagen3{
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom:30px;
+}
+
+.title{
+    margin-bottom:40px;
+    border-bottom: 1px solid rgb(161, 161, 161);
+    padding: 6px;
+}
+.title h4{
+    margin-bottom:40px;
+    border-bottom: 1px solid rgb(161, 161, 161);
+    padding: 6px;
+}
+.subtitle h4{
+    text-align: left;
+}
+.subtitle h3{
+    text-align: center;
+}
+
+
+
+footer .logotipo-footer{
+    width: 100px;
+   margin-bottom: 20px;
+   } 
+    footer{
+        background-color: rgb(53, 53, 53);
+        padding: 30px 0;
+        text-align: center;
+    }
+    footer p{
+        color:cornsilk;
+    }
+    .sociales a{
+        color: cornsilk;
+        font-size: 20px;
+
+    }
+

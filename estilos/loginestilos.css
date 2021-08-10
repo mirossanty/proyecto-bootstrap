@@ -1,0 +1,16 @@
+
+
+
+
+.bg{
+    background-image: url(../img/page_1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 112%;
+}
+body{
+    background:#85C1E9;
+   
+     background: linear-gradient(to right,#5DADE2,#85C1E9);
+
+}
